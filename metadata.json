@@ -1,0 +1,5 @@
+{
+  "name": "React PIN Pad",
+  "description": "A visually appealing and functional numeric PIN pad interface, designed to replicate a mobile lock screen, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
